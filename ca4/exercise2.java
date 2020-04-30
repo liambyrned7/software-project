@@ -25,5 +25,7 @@ public class exercise2{
 
         multiply = first * second;
         System.out.println(first+" x "+second+" = "+multiply);
+
+        index.main(null);
    }
 }

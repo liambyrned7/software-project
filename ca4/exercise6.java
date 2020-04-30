@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class exercise6{
     public static void main(String[] args){
 
@@ -25,5 +24,7 @@ public class exercise6{
                 }
                 System.out.println();
             }
+
+            index.main(null);
     }
 }

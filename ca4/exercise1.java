@@ -12,5 +12,7 @@ public class exercise1{
         System.out.println(name+" is "+age+" years old.");
         System.out.println("She weighs "+weight+" kilograms.");
         System.out.println("Her favourite colour is "+colour+".");
+
+        index.main(null);
    }
 }

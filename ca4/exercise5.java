@@ -13,5 +13,7 @@ public class exercise5{
             average = total / x.length;
         }
         System.out.println("Average = "+average);
+
+        index.main(null);
     }
 }
